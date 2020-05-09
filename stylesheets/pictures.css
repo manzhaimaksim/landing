@@ -32,3 +32,15 @@
 .feedback-card {
   background: linear-gradient( #fff, #ccc );
 }
+
+.basic {
+  background: linear-gradient( #bd9b9b, #bd9b9b);
+}
+
+.expanded {
+  background: linear-gradient( rgba(192, 192, 192, 0.5), silver);
+}
+
+.vip {
+  background: linear-gradient( rgba(255, 215, 0, 0.5), gold );
+}

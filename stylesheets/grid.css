@@ -67,6 +67,28 @@
   flex-basis: 33.3%;
 }
 
-.prices {
+.price-title h1 {
+  text-align: center;
+  margin: 25px 0 25px 0;
+}
 
+.prices .container {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.price {
+  margin: 0 25px 50px 25px;
+  text-align: center;
+  flex-basis: 33.3%;
+}
+
+.price-about h2, p {
+  margin: 20px 0 20px 0;
+}
+
+.button {
+  margin: 20px 0 20px 0;
 }
