@@ -1,0 +1,27 @@
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.intro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.list {
+
+}
+
+.video-block {
+
+}
+
+.feedback {
+
+}
+
+.prices {
+
+}
