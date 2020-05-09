@@ -107,3 +107,19 @@
 .address p {
   margin: 20px;
 }
+
+@media (max-width: 640px) {
+  .wrapper, .intro, .about, .video-block, .feedback .container, .prices .container, .contacts .container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+}
+
+@media (max-width: 960px) {
+  .wrapper, .intro, .about, .video-block, .feedback .container, .prices .container, .contacts .container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+

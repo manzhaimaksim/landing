@@ -5,9 +5,10 @@
 .intro .title {
   font-family: 'Spectral SC', serif;
   font-size: 32px;
+  text-align: center;
 }
 
 .contacts .container p {
   font-family: 'Roboto Slab', serif;
-  font-size: 18px;
+  font-size: 16px;
 }
