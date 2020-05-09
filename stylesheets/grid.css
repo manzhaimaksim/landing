@@ -92,3 +92,18 @@
 .button {
   margin: 20px 0 20px 0;
 }
+
+.contacts-title {
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+
+.contacts .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.address p {
+  margin: 20px;
+}
