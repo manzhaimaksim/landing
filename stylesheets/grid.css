@@ -39,12 +39,11 @@
   order: 1;
 }
 
-.list {
-
-}
-
 .video-block {
-
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
 }
 
 .feedback {
