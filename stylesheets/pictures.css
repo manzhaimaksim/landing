@@ -19,3 +19,16 @@
   margin: 25px;
   border: black 2px solid;
 }
+
+.feedback-image img {
+  height: 128px;
+  width: 128px;
+  padding: 3px;
+  border-radius: 100%;
+  margin: 25px;
+  border: black 2px solid;
+}
+
+.feedback-card {
+  background: linear-gradient( #fff, #ccc );
+}
