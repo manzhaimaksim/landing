@@ -10,3 +10,12 @@
   width: 200px;
   margin: 25px 0 25px 0;
 }
+
+.card-image img {
+  height: 200px;
+  width: 200px;
+  padding: 3px;
+  border-radius: 100%;
+  margin: 25px;
+  border: black 2px solid;
+}
