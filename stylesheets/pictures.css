@@ -1,9 +1,9 @@
 .intro {
-  background-image: url("../files/background_intro.jpg");
   background-color: #fff;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: scroll, fixed;
 }
 
 .logo img {
